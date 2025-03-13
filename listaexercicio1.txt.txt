@@ -5,3 +5,6 @@ Questão03
 Questão05
 Questão06
 
+Questão07
+Questão08
+Questão09
